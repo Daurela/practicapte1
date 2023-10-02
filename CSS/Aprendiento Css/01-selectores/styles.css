@@ -1,0 +1,87 @@
+    /*selector general*/
+ *{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+ 
+ /*SELECTOR DE ETIQUETA*/
+ h1{background: red;
+color: white;
+padding: 10px;}
+
+a{
+    font-size: 18px;
+    color: green;
+    text-decoration: none;
+}
+
+footer a{color: red;}
+
+/*SELECTOR DE ID*/
+
+#description{
+    border: 1px solid black;
+    padding: 15px;
+}
+
+#titulo{
+    background: blue;
+    border: 2px dashed white;
+}
+
+/*SELECTOR DE CLASE - (ATRIBUTO "CLASS" */
+
+.Parrafo{
+    font-style: italic;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.Parrafo1, .Parrafo3{
+    background-color: green;
+    color: white;
+}
+
+.Parrafo3{
+    background-color: orange;
+    color: black;
+}
+
+/*SELECTOR DE ATRIBUTO*/
+
+#usuario form {
+    border: 5px solid blue;
+     margin-top: 15px;
+     margin-bottom: 15px;
+     padding: 20px;
+}
+
+
+#usuario form *{
+    display: block;} /* con el "Block" se  pone una encima de la otra
+
+/*aquie empieza selector de atributo*/
+
+input[type="text"]{
+    margin-bottom: 15px;
+    padding: 10px;
+    width: 300px;
+}
+
+input[type="submit"]{
+    background-color: green;
+    color: white;
+    padding: 15px;
+    font-size: 15px;
+    text-transform: uppercase;
+    border: 4px solid black;
+    cursor: pointer;
+
+}
+#menua > ul > li > ul > li > a{ 
+    font-size: 18px;
+    color: red;
+    text-decoration: none;}
+
+
+#menua > ul > li > a {
+    color: blue;
+}
+    

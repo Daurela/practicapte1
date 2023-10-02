@@ -1,0 +1,35 @@
+@font-face {
+    font-family: KeniaCustom;
+    src: url(font/Kenia/Kenia-Regular.ttf);
+}
+
+h1 {font-family: 'Croissant One', cursive;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+h3 {font-family: KeniaCustom, "comic sans MS";
+    font-size: 20px;
+    font-weight: lighter;
+color: olive;
+}
+
+p{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 18px;
+font-weight: bolder;
+color: #ca0505a4;
+border: blue;
+}
+
+
+
+/* ejemplo de RGBA * {background-color: rgba(191, 6, 0, 0.5)} */
+
+/*COLORES*/
+/*  colores del sistema*/
+/* colores hexadecimales*/
+/* Colores RBG*/
+/*colores RBGA/
+
+
+

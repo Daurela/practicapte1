@@ -1,0 +1,36 @@
+* {margin: 0px;
+padding: 0%;}
+
+.caja {
+    display: block;
+    width: 250px;
+height: 250px;
+background-color: lightblue;
+/*min-with or max width / es para el maximo o minimo de una caja*/ 
+border: 10px solid red;
+margin: 15px;
+margin-top: 15px;
+margin-bottom: 15px;
+margin-left: 15px;
+margin-right: 15px;
+padding: 20px;
+float: left;
+}
+
+.caja p{text-align: center;
+font-family:  'Arial Narrow Bold', sans-serif;
+font-size: 20px;
+font-weight: bold;
+line-height: 250px;
+float: left;}
+
+#cajas {border: 1px solid blue;
+max-width: 1035px;}
+
+
+.clearfix {
+    float: none;
+    clear: both;
+}
+
+body {padding: 40px;}

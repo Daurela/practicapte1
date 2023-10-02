@@ -1,0 +1,32 @@
+body {
+    background-color:#ccc;
+    /*background-image: url("img/banco-de-imagenes-gratis-de-alta-resolucion-inbound-marketing.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+    background-position: left bottom;*/ 
+
+}
+
+#caja {
+    border: 1PX solid blue;
+    padding: 10px;
+    padding-left: 20px;
+    background-color: #3987fc;
+    color: rgb(48, 47, 47);
+    font-family:"open sans"
+    text-
+    
+    
+}
+
+h2 {
+    border: 2px solid rgb(156, 0, 0);
+    background-color: rgb(206, 4, 4);
+    background-image: url("img/astronauta-imagen-espacio-profundo-fantasia-ciencia-ficcion-alta-resolucion-ideal-papel-tapiz-e-impresion-elementos-imagen-proporcionada-nasa_112293-562.avif");
+    background-size: 50%;
+    color: #ccc;
+}
+
+#idparr {
+    color: #000000;
+}
